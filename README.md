@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5623c4a10dbf402f886d73b8386ef04c)](https://app.codacy.com/app/Maui/google-api-php-client?utm_source=github.com&utm_medium=referral&utm_content=kau-vakauta-limited/google-api-php-client&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/googleapis/google-api-php-client.svg?branch=master)](https://travis-ci.org/googleapis/google-api-php-client)
 
 # Google APIs Client Library for PHP #
